@@ -38,6 +38,7 @@ class TableFilter {
         }
     };
     clearSearch(value) {
+        console.log(value)
         this.userInput.value = '';
         this.filterTable(value);
         this.resultsString.innerHTML = '';

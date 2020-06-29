@@ -2,7 +2,6 @@
 
 Simple page filtering as you type.
 
---
 ## Demo
 https://emilyrosenkranz.dev/client-side-filter/
 
